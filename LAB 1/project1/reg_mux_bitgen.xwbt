@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=/home/lucas/Downloads/outros/faculdade/micro/LAB1/project1/reg_mux.ncd
+OUTFILE=/home/lucas/Downloads/outros/faculdade/micro/LAB1/project1/reg_mux.bit
+FAMILY=Spartan3E
+PART=xc3s1200e-5ft256
+WORKINGDIR=/home/lucas/Downloads/outros/faculdade/micro/LAB1/project1
+LICENSE=WebPack
+USER_INFO=213801289_0_0_230

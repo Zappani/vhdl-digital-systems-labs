@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/home/lucas/Downloads/outros/faculdade/micro/LAB1/project1/reg_mux_tb_isim_beh.exe" -prj "/home/lucas/Downloads/outros/faculdade/micro/LAB1/project1/reg_mux_tb_beh.prj" "work.reg_mux_tb" 

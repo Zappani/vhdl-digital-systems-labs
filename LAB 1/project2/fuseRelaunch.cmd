@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/home/aula/Desktop/LUCAS_ZAP_2026/MICRO_LUCAS_2026/project2/reg_mux_tb_isim_beh.exe" -prj "/home/aula/Desktop/LUCAS_ZAP_2026/MICRO_LUCAS_2026/project2/reg_mux_tb_beh.prj" "reg_mux_tb" 

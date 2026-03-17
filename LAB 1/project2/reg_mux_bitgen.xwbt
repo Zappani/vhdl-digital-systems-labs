@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=/home/aula/Desktop/LUCAS_ZAP_2026/MICRO_LUCAS_2026/project2/reg_mux.ncd
+OUTFILE=/home/aula/Desktop/LUCAS_ZAP_2026/MICRO_LUCAS_2026/project2/reg_mux.bit
+FAMILY=Spartan3E
+PART=xc3s1200e-5fg320
+WORKINGDIR=/home/aula/Desktop/LUCAS_ZAP_2026/MICRO_LUCAS_2026/project2
+LICENSE=WebPack
+USER_INFO=210743554_0_0_851
