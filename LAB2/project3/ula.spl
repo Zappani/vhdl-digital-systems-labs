@@ -1,0 +1,10 @@
+[Inputs]
+enable
+=a[1:0]=
+=b[1:0]=
+=opcode[2:0]=
+[Outputs]
+cout
+overflow
+=y[1:0]=
+[BiDir]

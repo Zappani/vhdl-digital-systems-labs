@@ -1,0 +1,19 @@
+NET "a[0]" LOC = "G18"; # SW0
+NET "a[1]" LOC = "H18"; # SW1
+
+NET "b[0]" LOC = "K18"; # SW2
+NET "b[1]" LOC = "K17"; # SW3
+
+NET "opcode[0]" LOC = "L14"; # SW4
+NET "opcode[1]" LOC = "L13"; # SW5
+NET "opcode[2]" LOC = "N17"; # SW6
+
+NET "enable" LOC = "R17"; # SW7
+
+# SAIDA
+
+NET "y[0]" LOC = "J14"; # LED0
+NET "y[1]" LOC = "J15"; # LED1
+
+NET "cout"     LOC = "K15"; # LED2
+NET "overflow" LOC = "K14"; # LED3

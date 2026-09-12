@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/home/aula/Documentos/lucas/LUCAS_MICRO_2026/LAB2/project1/decod_bcd_tb_isim_beh.exe" -prj "/home/aula/Documentos/lucas/LUCAS_MICRO_2026/LAB2/project1/decod_bcd_tb_beh.prj" "work.decod_bcd_tb" 

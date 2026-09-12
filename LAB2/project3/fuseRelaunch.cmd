@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/home/aula/Documentos/lucas/LUCAS_MICRO_2026/LAB2/project3/tb_ula_isim_beh.exe" -prj "/home/aula/Documentos/lucas/LUCAS_MICRO_2026/LAB2/project3/tb_ula_beh.prj" "work.tb_ula" 

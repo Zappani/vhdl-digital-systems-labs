@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=/home/aula/Documentos/lucas/LUCAS_MICRO_2026/LAB2/project2/decod_priorid.ncd
+OUTFILE=/home/aula/Documentos/lucas/LUCAS_MICRO_2026/LAB2/project2/decod_priorid.bit
+FAMILY=Spartan3E
+PART=xc3s1200e-5fg320
+WORKINGDIR=/home/aula/Documentos/lucas/LUCAS_MICRO_2026/LAB2/project2
+LICENSE=WebPack
+USER_INFO=210743554_0_0_851

@@ -1,0 +1,6 @@
+[Inputs]
+=x[3:0]=
+[Outputs]
+=y[6:0]=
+=anodo[3:0]=
+[BiDir]

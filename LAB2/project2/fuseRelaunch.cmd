@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/home/aula/Documentos/lucas/LUCAS_MICRO_2026/LAB2/project2/tb_decod_priorid_isim_beh.exe" -prj "/home/aula/Documentos/lucas/LUCAS_MICRO_2026/LAB2/project2/tb_decod_priorid_beh.prj" "work.tb_decod_priorid" 
