@@ -1,0 +1,3 @@
+work	"debouncer.vhd"
+work	"maquina_cafe_top.vhd"
+work	"timer_5s.vhd"

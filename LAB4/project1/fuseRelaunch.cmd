@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/home/lucas/Downloads/outros/faculdade/micro/LABS/LAB4/project1/tb_relogio_isim_beh.exe" -prj "/home/lucas/Downloads/outros/faculdade/micro/LABS/LAB4/project1/tb_relogio_beh.prj" "work.tb_relogio" 

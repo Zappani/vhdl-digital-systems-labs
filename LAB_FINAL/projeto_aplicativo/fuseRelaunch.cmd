@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/home/lucas/Downloads/outros/faculdade/micro/LABS/LAB_FINAL/projeto_aplicativo/tb_controle_bingo_isim_beh.exe" -prj "/home/lucas/Downloads/outros/faculdade/micro/LABS/LAB_FINAL/projeto_aplicativo/tb_controle_bingo_beh.prj" "work.tb_controle_bingo" 

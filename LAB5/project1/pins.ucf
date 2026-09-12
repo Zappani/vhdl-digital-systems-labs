@@ -1,0 +1,8 @@
+#-----
+NET "clk" LOC ="B8";
+NET "rst" LOC="G18";
+NET "sel" LOC="K18";
+NET "nota1" LOC="B18";
+NET "nota2" LOC="E18";
+NET "pronto" LOC="J14";
+NET "troco" LOC="J15";  

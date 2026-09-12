@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/home/aula/Desktop/LUCAS_ZAP_2026/MICRO_LUCAS_2026/ LAB5/project/tb_maquina_cafe_isim_beh.exe" -prj "/home/aula/Desktop/LUCAS_ZAP_2026/MICRO_LUCAS_2026/ LAB5/project/tb_maquina_cafe_beh.prj" "work.tb_maquina_cafe" 

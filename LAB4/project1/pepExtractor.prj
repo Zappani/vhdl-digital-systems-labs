@@ -1,0 +1,7 @@
+work	"clock_div.vhd"
+work	"contador_hora.vhd"
+work	"contador_min.vhd"
+work	"contador_seg.vhd"
+work	"controle_display.vhd"
+work	"driver_ssd.vhd"
+work	"relogio_top.vhd"
