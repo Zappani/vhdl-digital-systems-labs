@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=/home/aula/Documentos/lucas/LUCAS_MICRO_2026/debouncer/debouncer.ncd
+OUTFILE=/home/aula/Documentos/lucas/LUCAS_MICRO_2026/debouncer/debouncer.bit
+FAMILY=Spartan3E
+PART=xc3s1200e-5fg320
+WORKINGDIR=/home/aula/Documentos/lucas/LUCAS_MICRO_2026/debouncer
+LICENSE=WebPack
+USER_INFO=210743554_0_0_851

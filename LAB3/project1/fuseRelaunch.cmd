@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/home/lucas/Downloads/outros/faculdade/micro/LAB3/project1/module_conector_tb_isim_beh.exe" -prj "/home/lucas/Downloads/outros/faculdade/micro/LAB3/project1/module_conector_tb_beh.prj" "work.module_conector_tb" 

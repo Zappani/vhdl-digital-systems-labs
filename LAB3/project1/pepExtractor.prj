@@ -1,0 +1,3 @@
+work	"decod_bcd.vhd"
+work	"module_conector.vhd"
+work	"temporizador.vhd"

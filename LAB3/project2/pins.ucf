@@ -1,0 +1,21 @@
+NET "clk" LOC = "B8";
+
+
+NET "sw[0]" LOC = "G18"; #rst
+NET "sw[1]" LOC = "H18";#enable
+NET "sw[2]" LOC = "k18"; #up/down
+
+NET "btn" LOC = "H13";
+
+NET "seg[0]" LOC = "L18";
+NET "seg[1]" LOC = "F18";
+NET "seg[2]" LOC = "D17";
+NET "seg[3]" LOC = "D16";
+NET "seg[4]" LOC = "G14";
+NET "seg[5]" LOC = "J17";
+NET "seg[6]" LOC = "H14";
+
+NET "an[0]" LOC = "F17";
+NET "an[1]" LOC = "H17";
+NET "an[2]" LOC = "C18";
+NET "an[3]" LOC = "F15";
